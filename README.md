@@ -1,2 +1,2 @@
 # easton-s.github.io
-Portfolio website for myself
+Personal website for myself
